@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import ru.itvitality.sbrf.cu.library.entities.Book;
 import ru.itvitality.sbrf.cu.library.service.BookService;
-//test commit
+//test commit1
 @Controller
 public class BookController {
     private final BookService bookService;
